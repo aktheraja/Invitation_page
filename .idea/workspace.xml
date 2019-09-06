@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8438d4ed-c947-4bb7-b2a0-2f52b406e4e0" name="Default Changelist" comment="" />
+    <list default="true" id="8438d4ed-c947-4bb7-b2a0-2f52b406e4e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Jumbotron/Jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Jumbotron/Jumbotron.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +56,16 @@
       <updated>1567542626053</updated>
       <workItem from="1567542628459" duration="21240000" />
       <workItem from="1567711186722" duration="16215000" />
+      <workItem from="1567755810732" duration="6881000" />
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1567755975462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567755975462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,10 +76,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>
